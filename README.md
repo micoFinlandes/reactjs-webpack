@@ -6,4 +6,9 @@ Eso repo es una respuesta para pregunta en https://es.stackoverflow.com/question
 
 y tantos busquedas alrededor del topico en StackOverflow en ingles.
 
-- mico
+Para abrir:
+npm install
+npm run build
+-> abre el index.html desde carpeta /dist 
+
+-- mico
